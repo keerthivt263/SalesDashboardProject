@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Power BI Sales Dashboard Project
 
 This repository contains a Sales Dashboard built in Power BI using a retail sales dataset. The dashboard provides insights into sales, profit, orders, customers, and regional performance.
@@ -49,3 +50,6 @@ How to Use:
 2. Open SalesDashboard.pbix in Power BI Desktop.
 3. Refresh dataset if needed.
 4. Explore the dashboard and interact with slicers.
+=======
+
+>>>>>>> aa997dc91bebe1afe8b0b4f8116d7965de9dc30e
