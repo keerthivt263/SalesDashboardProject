@@ -49,5 +49,3 @@ How to Use:
 2. Open SalesDashboard.pbix in Power BI Desktop.
 3. Refresh dataset if needed.
 4. Explore the dashboard and interact with slicers.
-
-Author: [Your Name]
